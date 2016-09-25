@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Android Dialogs</string>
+
+    <string-array name="city">
+        <item>北京</item>
+        <item>上海</item>
+        <item>深圳</item>
+    </string-array>
 </resources>

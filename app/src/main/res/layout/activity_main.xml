@@ -34,4 +34,16 @@
         android:text="对选列表对话框"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/button5"
+        android:text="日期对话框"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/button6"
+        android:text="时间对话框"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 </LinearLayout>
